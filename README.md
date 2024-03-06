@@ -1,37 +1,31 @@
-# Pixel Art - Troca de Personagens South Park
+# Pixel Art - South Park Characters Swap
 
-Este repositório contém uma atividade solicitada pelo professor [Fred](https://github.com/fbamuniz) na disciplina de Programação Web, no ano de 2023, na Etec de Registro, no curso de Desenvolvimento de Sistemas. 
+This repository contains an activity requested by Professor [Fred](https://github.com/fbamuniz) in the Web Programming discipline, in the year 2023, at Etec de Registro, in the System Development course.
 
-Nesta atividade, foi desenvolvido um simples código em HTML, CSS e JavaScript para criar uma pixel art utilizando matrizes. A pixel art consiste em duas imagens dos personagens Eric Cartman e Kyle, da série South Park. Quando o mouse é passado sobre a imagem do Eric Cartman, ela é substituída pela imagem do personagem Kyle.
+In this activity, a simple HTML, CSS, and JavaScript code was developed to create a pixel art using arrays. The pixel art consists of two images of the characters Eric Cartman and Kyle from the series South Park. When the mouse is hovered over the image of Eric Cartman, it is replaced by the image of the character Kyle.
 
-## Como funciona
+## How It Works
 
-- Abra o arquivo `index.html` em um navegador da web.
-- Passe o mouse sobre a imagem do Eric Cartman para ver a troca de personagens.
+- Open the `index.html` file in a web browser.
+- Hover over the image of Eric Cartman to see the character swap.
 
-## Estrutura do Projeto
+<div align="left">  
+<h2>Technologies Used</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60"/>
+</div>
 
-O projeto é composto pelos seguintes arquivos:
+## Contributing
 
-- `index.html`: O arquivo HTML que contém a estrutura da página.
-- `style.css`: O arquivo CSS que define o estilo da página.
-- `script.js`: O arquivo JavaScript que manipula a lógica de troca de personagens.
+Feel free to contribute improvements to this project. You can open an issue to report bugs or suggest new features. If you wish to contribute code, please open a pull request and describe your changes.
 
-## Tecnologias Utilizadas
+## Credits
 
-- HTML
-- CSS
-- JavaScript
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir com melhorias neste projeto. Você pode abrir um problema para relatar bugs ou sugerir novos recursos. Se desejar contribuir com código, por favor, abra um pedido de pull request e descreva suas alterações.
-
-## Créditos
-
-- Desenvolvido por [Victor Theodoro](https://github.com/VTheodoro)
+- Developed by [Victor Theodoro](https://github.com/VTheodoro)
 - Professor: [Fred](https://github.com/fbamuniz)
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
