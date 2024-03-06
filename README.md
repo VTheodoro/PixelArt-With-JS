@@ -24,7 +24,7 @@ Feel free to contribute improvements to this project. You can open an issue to r
 ## Credits
 
 - Developed by [Victor Theodoro](https://github.com/VTheodoro)
-- Professor: [Fred](https://github.com/fbamuniz)
+- Professor: [Fred Barbosa](https://github.com/fbamuniz)
 
 ## License
 
